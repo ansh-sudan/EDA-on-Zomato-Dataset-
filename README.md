@@ -47,11 +47,9 @@ Key Insights
 Analysis of restaurant ratings across different locations.
 Visualization of cuisine distribution.
 Average cost analysis and its relationship with ratings.
+
+
+
 Contributing
 Feel free to fork the repository and submit pull requests with improvements or additional analyses.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any questions or suggestions, please contact Ansh Sudan.
